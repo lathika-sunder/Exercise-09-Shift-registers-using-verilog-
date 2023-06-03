@@ -68,8 +68,7 @@ A Parallel in Parallel out (PIPO) shift register is used as a temporary storage 
 Program for  Implementation-of Shift-registers-using-verilog-
 Developed by: Lathika Sunder 
 RegisterNumber:  212221230054
-```
-```
+
 
 module sipo(c,si,po);
 input c,si;
@@ -108,8 +107,8 @@ endmodule
 ### PROGRAM 2
 ```
 Program for  Implementation-of Shift-registers-using-verilog-
-Developed by: THAMARAISELVAN V
-RegisterNumber:  212221230115
+Developed by: LATHIKA SUNDER
+RegisterNumber:  212221230054
 
 module piro(c,pi,so,load);
 input [3:0] pi;
